@@ -4,7 +4,7 @@
 #### 만일 사용시 githubr repository 링크를 반드시 사용한 곳에 남겨주시기 바랍니다
 
 ### Dataset 형식
-|Algorithm|Entropy|Hamming_Weight|Repeated|Size_Ratio|Encryption_Time_per_Byte|Decryption_Time_per_Byte|
+|Algorithm|Entropy|Ratio_bit|Repeated|Size_Ratio|Encryption_Time_per_Byte|Decryption_Time_per_Byte|
 |---|---|---|---|---|---|---|
 | AES-CBC | 5.420337500298146 | 0.492431640625 | 0 | 0.9999999999990234 | 0.0 | 0.0 |
 | AES-ECB | 5.428403944932581 | 0.5013221153846154 | 0 | 1.0156249999990081 | 0.0 | 0.0 |
