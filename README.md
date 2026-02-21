@@ -1,7 +1,7 @@
 # GUIDE of THIS DATA
 ### 본 데이터 셋은 정보과학 연구를 위한 - 암호화된 파일의 특성 기반 랜덤포레스트 분류 모델 설계 및 분석 을 위해 제작된 파일입니다.
 #### 5가지 암호화 알고리즘 (AES-CBC,AES-ECB,RSA,ChaCha20,Blowfish)에 대한 데이터 셋입니다.
-#### 만일 사용시 githubr repository 링크를 반드시 사용한 곳에 남겨주시기 바랍니다
+#### 만일 사용시 github repository 링크를 반드시 사용한 곳에 남겨주시기 바랍니다
 
 ### Dataset 형식
 |Algorithm|Entropy|Ratio_bit|Repeated|Size_Ratio|Encryption_Time_per_Byte|Decryption_Time_per_Byte|
